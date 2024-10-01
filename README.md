@@ -8,7 +8,7 @@ To run the tests for this project, follow these steps:
    npm install
    
 2. **Add File**
-   Add the file to the project in a seperate src folder.
+   Add the scraper.js file to the project in a seperate src folder.
 
 3. **Run Tests**:
    - Provides the command 'npx jest' to run the tests.
